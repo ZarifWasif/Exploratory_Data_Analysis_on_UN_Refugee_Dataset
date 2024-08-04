@@ -6,9 +6,9 @@ Open source data was taken from Kaggle, cleaned and augmented and multiple machi
 
 The list of the Regression algorithms include:
 
-*Linear Regression: Simple and interpretable. Assumes a linear relationship between input features and the target variable.
+#Linear #Regression: Simple and interpretable. Assumes a linear relationship between input features and the target variable.
 
-*Ridge Regression: Extension of linear regression that adds regularization to the cost function. Helps prevent overfitting by penalizing large coefficients.
+#Ridge #Regression: Extension of linear regression that adds regularization to the cost function. Helps prevent overfitting by penalizing large coefficients.
 
 *Lasso Regression: Another extension of linear regression with regularization. Performs feature selection by forcing some coefficients to zero.
 
