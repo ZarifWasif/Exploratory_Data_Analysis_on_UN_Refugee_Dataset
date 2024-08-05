@@ -1,4 +1,4 @@
-# Exploratory_Data_Analysis_on_UN_Refugee_Dataset
+# Data Visualization & Exploratory Data Analysis on Historical UNHCR Refugee Dataset
 
 An exploratory data analysis was conducted on the UN Refugee Dataset (1951-2023) from Kaggle, which was cleaned and augmented, and multiple machine learning regression models were trained for cross-evaluation, with a dashboard designed to visualize the historical global refugee situation.
 Open source data was taken from Kaggle, cleaned and augmented and multiple machine learning regression models were trained to cross evaluate the performance of the models.
